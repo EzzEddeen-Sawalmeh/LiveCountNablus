@@ -1,4 +1,11 @@
 Live Vehicle Counting in Nablus – Asira & Al-Ittihad Street
+
+## Project Demo
+
+![Project Demo](assets/demo2.gif)
+
+## Project Screenshot
+
 <img src="assets/screenshot.png" alt="Project Screenshot" width="600">
 
 📌 Overview
