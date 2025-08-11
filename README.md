@@ -73,7 +73,7 @@ LiveCountNablus/
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/LiveCountNablus.git
+git clone https://github.com/EzzEddeen-Sawalmeh/LiveCountNablus.git
 cd LiveCountNablus
 
 2️⃣ Install Dependencies
