@@ -85,4 +85,4 @@ Press 'n' to start a new polygon.
 Press 'q' to quit.
 
 demo :
-![ Project Demo ](assets/demo.mp4)
+![ Project Demo ](https://drive.google.com/file/d/1ejpGv7rYeYLBHh5u_6WVuaebNq25JIIx/view?usp=sharing)
