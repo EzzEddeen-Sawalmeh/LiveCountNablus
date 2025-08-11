@@ -44,16 +44,27 @@ cvzone – Easy OpenCV utilities.
 bash
 Copy
 Edit
+
 LiveCountNablus/
+
 │
+
 ├── main.py # Main execution file
+
 ├── polym.py # Polyline/region management
+
 ├── coco.txt # COCO class labels
+
 ├── yolo11s.pt # YOLOv8 model weights
+
 ├── README.md # Project documentation
+
 ├── .gitignore # Ignore unnecessary files
+
 └── assets/
+
 ├── screenshot.png
+
 └── demo.mp4
 
 ## Installation & Usage
