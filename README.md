@@ -4,11 +4,8 @@ Live Vehicle Counting in Nablus – Asira & Al-Ittihad Street
 
 ![Project Demo](assets/demo2.gif)
 
-## Project Screenshot
+## Overview
 
-<img src="assets/screenshot.png" alt="Project Screenshot" width="600">
-
-📌 Overview
 This project uses YOLOv8 object detection to track and count vehicles moving between two defined areas in a live video stream of Nablus (Asira roundabout).
 It counts:
 
@@ -18,7 +15,8 @@ Cars going to Al-Ittihad Street – Vehicles moving in the opposite direction.
 
 The user can interactively draw two polygonal areas in the video feed to define the regions of interest.
 
-🎯 Features
+## Features
+
 Live video stream processing from an .m3u8 source.
 
 YOLOv8 vehicle detection (only cars are tracked).
@@ -29,7 +27,8 @@ Real-time counters for vehicles moving in each direction.
 
 Customizable regions saved for reuse.
 
-🛠 Tech Stack
+## Tech Stack
+
 Python 3.8+
 
 OpenCV – Video processing & drawing.
@@ -40,7 +39,8 @@ VidGear – Live video stream handling.
 
 cvzone – Easy OpenCV utilities.
 
-📂 Project Structure
+## Project Structure
+
 bash
 Copy
 Edit
@@ -56,7 +56,7 @@ LiveCountNablus/
 ├── screenshot.png
 └── demo.mp4
 
-🚀 Installation & Usage
+## Installation & Usage
 
 1️⃣ Clone the Repository
 bash
@@ -84,5 +84,6 @@ Press 'n' to start a new polygon.
 
 Press 'q' to quit.
 
-demo :
-![ Project Demo ](https://drive.google.com/file/d/1ejpGv7rYeYLBHh5u_6WVuaebNq25JIIx/view?usp=sharing)
+## Demo :
+
+[Click to see the demo](https://drive.google.com/file/d/1ejpGv7rYeYLBHh5u_6WVuaebNq25JIIx/view?usp=sharing)
